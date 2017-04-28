@@ -44,8 +44,8 @@
 
 ?: An element can only have one class at a time
 
-(X) True
-( ) False
+( ) True
+(X) False
 
 
 ?: An element can have multiple ID's, separated by a space
@@ -80,3 +80,5 @@
 ( ) False
 
 ???
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-css-quiz'>CSS Quiz</a> on Learn.co and start learning to code for free.</p>
